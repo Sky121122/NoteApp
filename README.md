@@ -1,4 +1,6 @@
 # Welcome to your Expo app 👋
+👉 [Download APK](https://github.com/your-username/NoteApp/releases/latest/download/NoteApp.apk)
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 

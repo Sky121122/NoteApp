@@ -2,6 +2,15 @@
 
 # Download App From Here 👉👉👉 [Download APK](https://github.com/Sky121122/NoteApp/releases/latest/download/NoteApp.apk)
 
+---
+
+## 📷 Screenshots
+
+<img src="assets/screenshots/one.jpg" width="200" /> <img src="assets/screenshots/two.jpg" width="200" /> <img src="assets/screenshots/three.jpg" width="200" /> 
+<img src="assets/screenshots/four.jpg" width="200" /> <img src="assets/screenshots/five.jpg" width="200" />
+
+---
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
